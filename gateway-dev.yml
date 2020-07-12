@@ -1,0 +1,5 @@
+lagou:
+  register:
+    frequency:
+      minutes: 1
+      requests: 60

@@ -1,0 +1,9 @@
+spring:
+  jpa:
+    show-sql: true
+    database: mysql
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: root
+    password: qwer1234
+    url: jdbc:mysql://192.168.0.12:3306/springcloudlearning?useUnicode=true&characterEncoding=UTF-8
